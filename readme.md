@@ -1,5 +1,5 @@
 
-# DIO | Resumos git
+# DIO | Resumos g
 
 Repositório para armazenar resumos sobre Git, do curso versionamento
 
